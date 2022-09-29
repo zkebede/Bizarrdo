@@ -24,12 +24,12 @@
                 </div>
                 <nav>
                     <ul id="MenuItems">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="products.html">Products</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                        <li><a href="cart.html">Cart</a></li>
-                        <li><a href="account.html">Account</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="products.php">Products</a></li>
+                        <li><a href="about.php">About</a></li>
+                        <li><a href="contact.php">Contact</a></li>
+                        <li><a href="cart.php">Cart</a></li>
+                        <li><a href="account.php">Account</a></li>
                     </ul>
                 </nav>
             </div>
