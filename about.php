@@ -3,7 +3,7 @@
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Merkato Sports Website</title>
+     <title>Bizarrdo's Chips</title>
      <!-- font family  google-->
      <link href="https://fonts.googleapis.com/css2?family=Recursive&display=swap" rel="stylesheet">
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
